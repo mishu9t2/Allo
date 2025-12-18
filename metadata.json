@@ -1,0 +1,8 @@
+{
+  "name": "Allo - Global Connect",
+  "description": "A high-fidelity social networking platform designed for global connectivity, featuring real-time messaging, community discovery, and a dynamic 3D-inspired globe interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
